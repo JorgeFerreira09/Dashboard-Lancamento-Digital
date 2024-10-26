@@ -17,14 +17,6 @@ https://www.youtube.com/watch?v=7kN456F4Afo&t=44s&ab_channel=JorgeFerreira  <br/
 :point_right: __Para conferir minha análise completa do 2º dashboard , clique no link abaixo:__ <br/>
 https://www.youtube.com/watch?v=le7nyhc6DCA&t=54s <br/><br/>
 
-![image](https://github.com/user-attachments/assets/d7d914c8-77ee-4261-8110-b3974317d559) 
-<br/><br/>
-![image](https://github.com/user-attachments/assets/0e56557e-c8c0-4759-af98-5acebe09a2a5)
+![Captura de tela 2024-10-25 223709](https://github.com/user-attachments/assets/13370a5a-b034-466b-af75-fb36e6655a10)
 
-
-
-
-
-
-
-
+![Captura de tela 2024-10-25 223012](https://github.com/user-attachments/assets/8ab43716-286a-4249-b64a-050d759d1d87)
