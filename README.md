@@ -21,10 +21,10 @@ São dois dashboards que servem para analisar dados reais de campanhas de tráfe
 
 🟦 Meta Ads <br>
 🟦 Excel <br>
-🟦 Looker Stduio <br>
+🟦 Looker Stduio <br><br>
 
 
-### IV. Análise e Insights em Vídeo: <br>
+### IV. Análise Completa & Insights em Vídeo: <br>
 
 ___Para conferir o 1º dashboard , clique no link abaixo:___ <br/>
 https://www.youtube.com/watch?v=7kN456F4Afo&t=44s&ab_channel=JorgeFerreira  <br/><br/>
