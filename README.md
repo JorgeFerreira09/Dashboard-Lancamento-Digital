@@ -17,8 +17,14 @@ São dois dashboards que servem para analisar dados reais de campanhas de tráfe
 🔵 Análise dos melhores públicos. <br>
 🔵 Análise dos melhores criativos.<br/><br/>
 
-### III. Análise e Insights em Vídeo: <br>
+### III. Ferramentas: <br>
 
+🟦 Meta Ads <br>
+🟦 Excel <br>
+🟦 Looker Stduio <br>
+
+
+### IV. Análise e Insights em Vídeo: <br>
 
 ___Para conferir o 1º dashboard , clique no link abaixo:___ <br/>
 https://www.youtube.com/watch?v=7kN456F4Afo&t=44s&ab_channel=JorgeFerreira  <br/><br/>
@@ -26,7 +32,7 @@ https://www.youtube.com/watch?v=7kN456F4Afo&t=44s&ab_channel=JorgeFerreira  <br/
 ___Para conferir o 2º dashboard , clique no link abaixo:___ <br/>
 https://www.youtube.com/watch?v=le7nyhc6DCA&t=54s <br/><br/>
 
- ### IV. Apresentação Visual: <br>
+ ### V. Apresentação Visual: <br>
  
 
 * Dashboard 1: <br>
